@@ -9,6 +9,7 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=mono789_CI_CD_Application&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=mono789_CI_CD_Application)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=mono789_CI_CD_Application&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=mono789_CI_CD_Application)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=mono789_CI_CD_Application&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=mono789_CI_CD_Application)
+
 Implementation of a Simple App with the next operations:
 * Get random nations
 * Get random currencies
