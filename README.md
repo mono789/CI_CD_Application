@@ -1,3 +1,4 @@
+[![CI/CD Pipeline](https://github.com/mono789/CI_CD_Application/actions/workflows/build.yml/badge.svg)](https://github.com/mono789/CI_CD_Application/actions/workflows/build.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mono789_CI_CD_Application&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mono789_CI_CD_Application)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=mono789_CI_CD_Application&metric=bugs)](https://sonarcloud.io/summary/new_code?id=mono789_CI_CD_Application)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=mono789_CI_CD_Application&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=mono789_CI_CD_Application)
