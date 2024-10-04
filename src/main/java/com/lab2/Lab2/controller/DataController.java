@@ -11,7 +11,6 @@ import java.util.Locale;
 @RestController
 public class DataController {
     @GetMapping("/")
-    //hola
     public String healthCheck() {
         return "HEALTH CHECK OK!";
     }
